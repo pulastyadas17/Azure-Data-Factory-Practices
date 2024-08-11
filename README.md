@@ -49,7 +49,28 @@ Web Activity in Azure Data Factory (ADF) allows you to make HTTP requests to ext
 
 ![image](https://github.com/user-attachments/assets/97962793-284d-4380-9684-f09c6c546ce7)
 
-## 4) 
+## * Parameterization in Loading data and Unloading data from source to destination : Steps : *
+
+![image](https://github.com/user-attachments/assets/b60ae0c3-082d-4571-a72d-567c7e92e83f)
+![image](https://github.com/user-attachments/assets/ca4e25d9-ecee-4022-ae2a-b1ba3698a168)
+![image](https://github.com/user-attachments/assets/2e449e24-cdc2-4a34-9c94-ae717dbcb14c)
+![image](https://github.com/user-attachments/assets/577bc13c-78ae-49ce-96c1-216d3f872ca1)
+![image](https://github.com/user-attachments/assets/d97b8429-2769-470a-b7f2-cd7b725c7f5f)
+![image](https://github.com/user-attachments/assets/3d539322-c464-4d31-a3c0-7a5d27b0ca53)
+![image](https://github.com/user-attachments/assets/5a08d815-505a-42e3-b7b4-a5517c91f278)
+![image](https://github.com/user-attachments/assets/c54d25db-6839-43b2-8c76-01e2d0f6eb65)
+![image](https://github.com/user-attachments/assets/95ada332-3ced-4366-a83b-01ca075f444c)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
