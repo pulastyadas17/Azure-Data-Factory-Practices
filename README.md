@@ -143,10 +143,15 @@ The Get Metadata activity in Azure Data Factory (ADF) is used to retrieve metada
 ![image](https://github.com/user-attachments/assets/4dba505e-4ea9-41de-8b56-2c19a710f74f)
 
 
-## 8) Get Metadata
-The Get Metadata activity in Azure Data Factory (ADF) is used to retrieve metadata information about data stored in various data sources. This activity allows you to gain insights into the structure, properties, and characteristics of your data, which can be critical for building dynamic and flexible ETL processes.
+## 8) Fail
+The Fail Activity in Azure Data Factory (ADF) is used to intentionally fail a pipeline or mark a specific point in the pipeline as failed based on certain conditions or logic. This activity is useful for managing error handling, enforcing business rules, and controlling the flow of a pipeline.
 
-### i) In settings we need to choose the dataset and linked service. After that we need to select the field list argument as per requirement. Then Debug/Trigger Now as per desired activity. Here date and time has been concatenated in the output.
+### i) In settings we need to provide the fail message and error code. Then Debug/Trigger Now as per desired activity.
+
+![image](https://github.com/user-attachments/assets/121456ff-9764-4536-b0a4-aeec2b367c5a)
+
+
+
 
 
 
