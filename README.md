@@ -124,17 +124,30 @@ The Append Variable activity in Azure Data Factory (ADF) is used to add new valu
 ## 7) Get Metadata
 The Get Metadata activity in Azure Data Factory (ADF) is used to retrieve metadata information about data stored in various data sources. This activity allows you to gain insights into the structure, properties, and characteristics of your data, which can be critical for building dynamic and flexible ETL processes.
 
-
+### i) In settings we need to choose the dataset and linked service. After that we need to select the field list argument as per requirement. Then Debug/Trigger Now as per desired activity. Here date and time has been concatenated in the output.
 
 ![image](https://github.com/user-attachments/assets/be679d0f-b6ed-407f-8b21-74638456da28)
 
 ![image](https://github.com/user-attachments/assets/bee9309f-f158-46fa-b546-cf5d6ad7862f)
 
-![image](https://github.com/user-attachments/assets/52096db5-1af6-446e-b8f4-376e484139e3)
-
 ![image](https://github.com/user-attachments/assets/de8d8394-4e67-41a0-b47e-3befd5499193)
 
 ![image](https://github.com/user-attachments/assets/05b7a40a-5df9-43e6-a888-ba9fa4486e7f)
+
+![image](https://github.com/user-attachments/assets/52096db5-1af6-446e-b8f4-376e484139e3)
+
+![image](https://github.com/user-attachments/assets/0e47ef4b-cf3e-4092-a769-f4b0f2619001)
+
+![image](https://github.com/user-attachments/assets/4dba505e-4ea9-41de-8b56-2c19a710f74f)
+
+
+## 8) Get Metadata
+The Get Metadata activity in Azure Data Factory (ADF) is used to retrieve metadata information about data stored in various data sources. This activity allows you to gain insights into the structure, properties, and characteristics of your data, which can be critical for building dynamic and flexible ETL processes.
+
+### i) In settings we need to choose the dataset and linked service. After that we need to select the field list argument as per requirement. Then Debug/Trigger Now as per desired activity. Here date and time has been concatenated in the output.
+
+
+
 
 
 
