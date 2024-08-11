@@ -14,6 +14,9 @@ Basic Steps:
 
 ### iii) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
 
+![image](https://github.com/user-attachments/assets/117304a7-b669-4b01-adb2-fae7a26d119f)
+
+
    
    
 
