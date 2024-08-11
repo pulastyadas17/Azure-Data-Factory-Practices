@@ -17,6 +17,12 @@ Copy Data Activity in Azure Data Factory (ADF) is a fundamental component used f
 ### iii) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
 ![image](https://github.com/user-attachments/assets/117304a7-b669-4b01-adb2-fae7a26d119f)
 
+### For API calling - 
+![image](https://github.com/user-attachments/assets/da138d3b-1e13-4392-b3f4-c0ee8364313b)
+![image](https://github.com/user-attachments/assets/af15e3f7-6790-478b-92b2-0a8fa86a5928)
+![image](https://github.com/user-attachments/assets/f000d2c8-c4c2-4b0d-888a-4ce3b7be2624)
+
+
 ##  2) Delete
 Delete Activity in Azure Data Factory (ADF) is used to remove data from a specified data store. It is a key component for managing and maintaining data, especially in scenarios where data needs to be cleaned, purged, or managed as part of an ETL (Extract, Transform, Load) workflow.
 
