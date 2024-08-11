@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f661347d-3a33-4420-978b-6e489380c3bf)# Azure-Data-Factory-Practices
+# Azure-Data-Factory-Practices
 Azure Data Factory Pipelines &amp; Dataflows - Data Integration and Transformation processes using Azure Data Factory (ADF).
 
 ##  1) Copy Data
@@ -84,6 +84,8 @@ The Execute Pipeline activity in Azure Data Factory (ADF) allows you to invoke a
 ![image](https://github.com/user-attachments/assets/0ab5796f-b760-4979-96dd-d6a7e51d4e59)
 
 ![image](https://github.com/user-attachments/assets/b33730fc-d6fe-4a39-aae9-ce94043278ea)
+
+![image](https://github.com/user-attachments/assets/f661347d-3a33-4420-978b-6e489380c3bf)
 
 
 
