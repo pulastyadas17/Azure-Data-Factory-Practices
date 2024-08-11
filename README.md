@@ -2,7 +2,7 @@
 Azure Data Factory Pipelines &amp; Dataflows - Data Integration and Transformation processes using Azure Data Factory (ADF).
 
 ##  1) Copy Data
-Copy Data Activity in Azure Data Factory (ADF) is a fundamental component used for moving data from a source to a destination. It supports a wide range of scenarios, making it a versatile tool in data integration and ETL (Extract, Transform, Load) processes like - Migrating data from an on-premises SQL Server database to an Azure SQL Database or Azure Blob Storage, Aggregating data from various databases, files, From APIs into an Azure Data Lake or Azure Synapse Analytics for comprehensive reporting and analytics, Copying raw transactional data from an operational database to a staging area in Azure Data Lake where it can be further transformed and cleaned before loading into a data warehouse, Copying streaming data from IoT devices or social media feeds to Azure Stream Analytics or Azure Blob Storage for real-time processing etc.
+Copy Data Activity in Azure Data Factory (ADF) is a fundamental component used for moving data from a source to a destination. It supports a wide range of scenarios, making it a versatile tool in data integration and ETL (Extract, Transform, Load) processes like - Migrating data from an on-premises SQL Server database to an Azure SQL Database or Azure Blob Storage, Aggregating data from various databases, files, From APIs into an Azure Data Lake or Azure Synapse Analytics for comprehensive reporting and analytics, Copying raw transactional data from an operational database to a staging area in Azure Data Lake where it can be further transformed and cleaned before loading into a data warehouse, Copying streaming data from IoT devices or social media feeds to Azure Stream Analytics or Azure Blob Storage for real-time processing, loading data from azure data lake gen2 (adls) files to azure sql database or unloading data from azure sql database to files in blob or adls. etc.
 
 ### i) Create Source Datasets-Linked Services and Sink Datasets-Linked Services:
    Choose a dataset to specify the location and structure of your data within a data store -> Select Format -> Set Dataset Name -> Choose/Create Linked Service (Name of Linked Service + Integration Runtime + Choose Azure subscription/ Enter Manually + Choose/Create Storage account name + Test Connection + Create) -> Choose File Path -> Select First Row as Header as per requirement -> Choose Import Schema Option as per requirement -> OK
@@ -37,6 +37,23 @@ Delete Activity in Azure Data Factory (ADF) is used to remove data from a specif
 ### iii) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
 
 ![image](https://github.com/user-attachments/assets/38cf8dfa-859e-4ec1-b93b-4374929f095f)
+
+## 3) Web
+Web Activity in Azure Data Factory (ADF) allows you to make HTTP requests to external services, APIs, or endpoints as part of your data workflows. This activity is versatile and can be used in a variety of scenarios where you need to interact with web services, trigger external processes, or integrate with other systems.
+
+### i) In settings put the URL and Choose the method
+
+![image](https://github.com/user-attachments/assets/52ca9d90-66b2-40da-8e6b-df388defd36a)
+
+### ii) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
+
+![image](https://github.com/user-attachments/assets/97962793-284d-4380-9684-f09c6c546ce7)
+
+## 4) 
+
+
+
+
 
 
 
