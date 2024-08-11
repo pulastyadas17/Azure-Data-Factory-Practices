@@ -20,6 +20,25 @@ Basic Steps:
 ![image](https://github.com/user-attachments/assets/9a9ae005-0d24-4fee-a28b-3a6677f27ca0)
 ![image](https://github.com/user-attachments/assets/117304a7-b669-4b01-adb2-fae7a26d119f)
 
+##  2) Delete
+Delete Activity in Azure Data Factory (ADF) is used to remove data from a specified data store. It is a key component for managing and maintaining data, especially in scenarios where data needs to be cleaned, purged, or managed as part of an ETL (Extract, Transform, Load) workflow.
+
+Basic Steps:
+
+### i) Create Source Datasets-Linked Services
+
+![image](https://github.com/user-attachments/assets/45394cdc-71e0-4135-9e83-15cfcbe6147c)
+
+### ii) In Logging settings - Create Logging account linked service and (Choose Folder Path for containing the deleted file names - optional)
+
+![image](https://github.com/user-attachments/assets/ccb503a2-a4d1-45ef-ab5e-32b7771ba591)
+
+### iii) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
+
+![image](https://github.com/user-attachments/assets/38cf8dfa-859e-4ec1-b93b-4374929f095f)
+
+
+
 
    
    
