@@ -1,4 +1,4 @@
-# Azure-Data-Factory-Practices
+![image](https://github.com/user-attachments/assets/f661347d-3a33-4420-978b-6e489380c3bf)# Azure-Data-Factory-Practices
 Azure Data Factory Pipelines &amp; Dataflows - Data Integration and Transformation processes using Azure Data Factory (ADF).
 
 ##  1) Copy Data
@@ -71,6 +71,86 @@ Web Activity in Azure Data Factory (ADF) allows you to make HTTP requests to ext
 ![image](https://github.com/user-attachments/assets/c54d25db-6839-43b2-8c76-01e2d0f6eb65)
 ### step 09 :
 ![image](https://github.com/user-attachments/assets/95ada332-3ced-4366-a83b-01ca075f444c)
+
+## 4) Execute Pipeline
+The Execute Pipeline activity in Azure Data Factory (ADF) allows you to invoke another pipeline from within a parent pipeline. This activity is particularly useful for organizing, reusing, and managing complex workflows in ADF.
+
+### i) In settings choose Invoked Pipeline and Wait on Completion for completing the previous pipeline activity. Then Debug/Trigger Now
+
+![image](https://github.com/user-attachments/assets/b2c7f373-d4d6-459d-8b0c-9538212bc2ab)
+
+![image](https://github.com/user-attachments/assets/6c358fdb-e0ab-4332-a96d-225f9aedb48c)
+
+![image](https://github.com/user-attachments/assets/0ab5796f-b760-4979-96dd-d6a7e51d4e59)
+
+![image](https://github.com/user-attachments/assets/b33730fc-d6fe-4a39-aae9-ce94043278ea)
+
+
+
+## 5) Set Variable
+The Set Variable activity in Azure Data Factory (ADF) is used to define and update the values of variables within a pipeline. This activity is highly useful for managing and controlling the flow of data processing workflows by storing dynamic values that can be used later in the pipeline.
+
+### i) In settings the name and value should be given. Then Debug/Trigger Now as per desired activity. Here date and time has been concatenated in the output.
+
+![image](https://github.com/user-attachments/assets/a365a0ee-a9c2-4998-8d02-57f9140d629c)
+
+![image](https://github.com/user-attachments/assets/3c942ce9-3271-442c-9271-53c933879046)
+
+![image](https://github.com/user-attachments/assets/9be75a32-c9f0-41e3-9b00-0df454d43df0)
+
+![image](https://github.com/user-attachments/assets/4eeeecf8-88b6-4115-9cdd-7f2efda5e142)
+
+![image](https://github.com/user-attachments/assets/f4893ac6-f680-4d0a-ba9a-461374452d2a)
+
+![image](https://github.com/user-attachments/assets/94167e7e-a4a0-468f-ade4-5010a6a052d0)
+
+![image](https://github.com/user-attachments/assets/bcbf1cd3-a4f9-4173-af39-655da1098025)
+
+## 6) Append Variable
+The Append Variable activity in Azure Data Factory (ADF) is used to add new values to an existing array variable within a pipeline. This is particularly useful when you need to build up a collection of items, such as a list of files, database records, or error messages, during the execution of a pipeline. 
+
+### i) In settings the name and value should be given. Then Debug/Trigger Now as per desired activity. Here date and time has been concatenated in the output.
+
+![image](https://github.com/user-attachments/assets/61cd1260-5c4a-4ee8-a85c-3c97640baba6)
+
+![image](https://github.com/user-attachments/assets/1319778d-64e8-4595-b92d-08b57ecafc8b)
+
+![image](https://github.com/user-attachments/assets/36d55203-c914-45c2-a749-74787fd1356e)
+
+![image](https://github.com/user-attachments/assets/77747fc8-6de3-4a4c-93e7-32b6ec9e3652)
+
+![image](https://github.com/user-attachments/assets/f1db0d29-2570-4b3b-9c89-6ca62defe267)
+
+## 7) Get Metadata
+The Get Metadata activity in Azure Data Factory (ADF) is used to retrieve metadata information about data stored in various data sources. This activity allows you to gain insights into the structure, properties, and characteristics of your data, which can be critical for building dynamic and flexible ETL processes.
+
+
+
+![image](https://github.com/user-attachments/assets/be679d0f-b6ed-407f-8b21-74638456da28)
+
+![image](https://github.com/user-attachments/assets/bee9309f-f158-46fa-b546-cf5d6ad7862f)
+
+![image](https://github.com/user-attachments/assets/52096db5-1af6-446e-b8f4-376e484139e3)
+
+![image](https://github.com/user-attachments/assets/de8d8394-4e67-41a0-b47e-3befd5499193)
+
+![image](https://github.com/user-attachments/assets/05b7a40a-5df9-43e6-a888-ba9fa4486e7f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
