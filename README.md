@@ -6,13 +6,13 @@ Copy Data Activity in Azure Data Factory (ADF) is a fundamental component used f
 
 Basic Steps:
 
-### 1) Create Source Datasets-Linked Services and Sink Datasets-Linked Services:
+### i) Create Source Datasets-Linked Services and Sink Datasets-Linked Services:
    Choose a dataset to specify the location and structure of your data within a data store -> Select Format -> Set Dataset Name -> Choose/Create Linked Service (Name of Linked Service + Integration Runtime + Choose Azure subscription/ Enter Manually + Choose/Create Storage account name + Test Connection + Create) -> Choose File Path -> Select First Row as Header as per requirement -> Choose Import Schema Option as per requirement -> OK
 
-### 2) In Mapping:
+### ii) In Mapping:
    Select correct Type of Source and Destination
 
-### 3) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
+### iii) Validate and Debug the Pipeline/Add Trigger(Trigger Now/Add Trigger)
 
    
    
