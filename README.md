@@ -424,7 +424,7 @@ After creating the dataflow, we need to trigger/debug through a pipeline.
 
 ![image](https://github.com/user-attachments/assets/7f344f55-e87e-447e-94ea-40d417c2922d)
 
-![image](https://github.com/user-attachments/assets/a56bec8b-d863-41f4-8551-e365a7a6a2f5)
+![image](https://github.com/user-attachments/assets/c5671401-bdf9-434f-9c23-a1884b6a295b)
 
 ![image](https://github.com/user-attachments/assets/cf0c0d4f-8ece-4e25-91e1-493b00badcc4)
 
