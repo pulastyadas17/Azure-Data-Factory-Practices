@@ -469,6 +469,23 @@ Example: Combining Type 2 and Type 3 approaches with additional fields or tables
 ## ADF Monitor
 ![image](https://github.com/user-attachments/assets/e91edacf-1a66-4684-a585-b9dcc1d4aaae)
 
+## 30) Running Azure Databricks Notebook from ADF
+
+![image](https://github.com/user-attachments/assets/4ee660d0-3188-4e7f-a327-cc7bb377b06e)
+
+![image](https://github.com/user-attachments/assets/22f25a32-f175-4999-b4a4-4177e91f04f4)
+
+![image](https://github.com/user-attachments/assets/3e96df57-4a4b-4eb0-bc9b-b7cc2bc8e36a)
+
+![image](https://github.com/user-attachments/assets/de300b87-35e7-43ae-b522-1a4070239ec6)
+
+
+
+
+
+
+
+
 
 
 
