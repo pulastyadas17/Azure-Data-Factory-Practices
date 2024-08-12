@@ -479,6 +479,9 @@ Example: Combining Type 2 and Type 3 approaches with additional fields or tables
 
 ![image](https://github.com/user-attachments/assets/de300b87-35e7-43ae-b522-1a4070239ec6)
 
+![image](https://github.com/user-attachments/assets/e49e61e3-7637-4ecc-80c7-889e282128d1)
+
+
 
 
 
