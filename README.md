@@ -466,6 +466,10 @@ Definition: Adds a layer of data versioning, often integrating Type 6 with addit
 Use Case: For advanced scenarios where detailed version tracking and change management are required.
 Example: Combining Type 2 and Type 3 approaches with additional fields or tables for detailed historical tracking.
 
+## ADF Monitor
+![image](https://github.com/user-attachments/assets/e91edacf-1a66-4684-a585-b9dcc1d4aaae)
+
+
 
 
 
