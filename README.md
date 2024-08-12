@@ -151,6 +151,155 @@ The Fail Activity in Azure Data Factory (ADF) is used to intentionally fail a pi
 ![image](https://github.com/user-attachments/assets/121456ff-9764-4536-b0a4-aeec2b367c5a)
 
 
+## 9) Script
+The Script Activity in Azure Data Factory (ADF) allows you to run SQL scripts against databases within your data integration workflows. This activity is particularly useful for performing complex database operations that cannot be easily achieved through standard data transformation activities in ADF.
+
+![image](https://github.com/user-attachments/assets/f9f109c0-99a5-41d3-a232-2d549350c842)
+
+![image](https://github.com/user-attachments/assets/c2c4b5ea-128e-457e-86df-d074f0544127)
+
+![image](https://github.com/user-attachments/assets/256e235a-4907-43c4-8b47-dfb1b9e67c28)
+
+
+## 10) Stored Procedure
+The Stored Procedure activity in Azure Data Factory (ADF) allows you to execute stored procedures in a SQL database as part of your data integration and ETL (Extract, Transform, Load) processes. This activity is useful for performing complex data operations, executing business logic, or handling tasks that require multiple steps within a database.
+
+![image](https://github.com/user-attachments/assets/c83b17aa-49df-43f5-90ac-67b2f93efb7e)
+
+![image](https://github.com/user-attachments/assets/0678511f-c8e8-4422-9d21-2debe9101700)
+
+![image](https://github.com/user-attachments/assets/797cbdff-7853-4d63-a06a-ba2fc0e44721)
+
+![image](https://github.com/user-attachments/assets/2e4eac00-49cb-4f29-9e05-8b9c6c9a0b71)
+
+![image](https://github.com/user-attachments/assets/7e714c87-02cf-4b97-9610-df9d8a6300bd)
+
+
+## 11) For Each
+The ForEach activity in Azure Data Factory (ADF) is used to iterate over a collection of items, such as an array, and execute a set of activities for each item in the collection. This activity is essential for scenarios where you need to perform repetitive tasks across multiple data elements or entities. 
+
+![image](https://github.com/user-attachments/assets/0859471e-e789-4d8b-9319-4c019c43b972)
+
+![image](https://github.com/user-attachments/assets/ecdafb0a-c6d2-4515-bb9f-9ff34667d03c)
+
+![image](https://github.com/user-attachments/assets/5700142d-59f2-4fc6-abfd-b82e31edc94a)
+
+![image](https://github.com/user-attachments/assets/01ab2488-6c73-471a-b60e-1685f6365f2a)
+
+![image](https://github.com/user-attachments/assets/5dba574c-5665-4f5f-b827-771199f7cefb)
+
+
+## 12) If
+The If Condition activity in Azure Data Factory (ADF) allows you to introduce conditional logic into your data workflows. This activity evaluates a Boolean expression and directs the pipeline flow based on whether the expression evaluates to true or false. This is especially useful for creating dynamic and flexible data pipelines that can adapt to different conditions or scenarios.
+
+![image](https://github.com/user-attachments/assets/f0893ed0-55e3-446a-be42-68ec8cc465d6)
+
+![image](https://github.com/user-attachments/assets/14d72019-6c9c-4ae8-b9e8-4c1fda143a0c)
+
+![image](https://github.com/user-attachments/assets/989ace04-035a-4c52-98e9-c995c004ed39)
+
+![image](https://github.com/user-attachments/assets/55d80d29-80b6-4b5c-ac86-cf228af16482)
+
+![image](https://github.com/user-attachments/assets/ed832b38-0a29-4c5e-befa-37824fc4bad5)
+
+![image](https://github.com/user-attachments/assets/f7b9b443-675c-40ad-a893-ffd95e809fcd)
+
+![image](https://github.com/user-attachments/assets/28d27bc8-ca2f-478a-b951-68856c22e86f)
+
+![image](https://github.com/user-attachments/assets/46c2d133-b59c-46d1-9174-5e3ef4ff552c)
+
+![image](https://github.com/user-attachments/assets/6a8dee28-974d-4d13-aca5-cbd4e4626ec1)
+
+![image](https://github.com/user-attachments/assets/512457ef-ddbb-4c81-9d43-45cd1afab060)
+
+
+## 13) Switch
+The Switch activity in Azure Data Factory (ADF) is used to implement branching logic based on the value of a specific expression. Unlike the If Condition activity, which only handles true/false logic, the Switch activity allows you to evaluate multiple possible values and execute different activities depending on the outcome. This is particularly useful for scenarios where you have multiple conditions to check, each leading to a different set of actions.
+
+![image](https://github.com/user-attachments/assets/27b709d2-96af-4994-94ee-ce5770f59566)
+
+![image](https://github.com/user-attachments/assets/0c642f15-3ea0-4c18-aa8b-c814cc44c867)
+
+![image](https://github.com/user-attachments/assets/b41f25cb-56e2-482a-930b-dd27367fafdb)
+
+![image](https://github.com/user-attachments/assets/6ae9bcad-20d6-47fc-a93f-720b40b7eacb)
+
+![image](https://github.com/user-attachments/assets/f2bfe6e3-7fba-4ae3-a7e0-1ba252360eae)
+
+## 14) Until
+The Until activity in Azure Data Factory (ADF) is used to repeatedly execute a set of activities until a specified condition evaluates to true. This is useful for scenarios where you need to wait for a specific event or condition to occur before proceeding with the rest of the pipeline.Scenarios like - Continuously checking for the availability of a file or data before proceeding with the pipeline,Waiting for an external process or job to complete before continuing with the pipeline,Repeating an action until a specific timeout condition is met.
+
+![image](https://github.com/user-attachments/assets/07be417e-faa2-4817-9111-e8331b80b9ee)
+
+![image](https://github.com/user-attachments/assets/ee954b8e-2322-411c-a4b3-d9eb5216042d)
+
+![image](https://github.com/user-attachments/assets/1bb0a715-5a15-4f45-8978-880785296683)
+
+![image](https://github.com/user-attachments/assets/8edaa884-9aac-4f09-8681-1cd6ef015367)
+
+## 15) Lookup
+The Lookup activity in Azure Data Factory (ADF) is used to retrieve data from a data source and make it available for use in other activities within the pipeline. This activity is particularly useful for fetching configuration settings, controlling the flow of the pipeline based on data, or retrieving specific values that guide the pipeline's logic.The Lookup activity can fetch a list of IDs, file names, or date ranges from a database, which can then be passed as parameters to other activities like Copy Data, ForEach, or Execute Pipeline.
+Benefit: Facilitates dynamic parameterization, enabling more flexible and reusable pipeline designs that can handle varying inputs or scenarios.
+Lookup activity can be used to check if certain data exists in a table or if a specific condition is met (e.g., ensuring that today's data has been loaded). If the condition is not met, the pipeline can be configured to either stop, retry, or take an alternative path.
+If you need to loop through a list of items (e.g., filenames, IDs), the Lookup activity can retrieve the list from a database or file. This list can then be passed to a ForEach activity for iterative processing.
+Benefit: Enables complex looping mechanisms in pipelines, allowing for batch processing of multiple items dynamically.
+The Lookup activity in ADF is a versatile tool for retrieving data and making real-time decisions within a pipeline. Whether you're fetching configuration settings, controlling pipeline flow, or performing data validation, the Lookup activity helps you build dynamic and adaptable data integration solutions that respond to the current state of your data and environment.
+
+
+![image](https://github.com/user-attachments/assets/101240b6-8a58-4fe1-91a7-6e1f8f949161)
+
+![image](https://github.com/user-attachments/assets/d52ebad4-ccef-47a2-83c7-ebd7331e93ea)
+
+![image](https://github.com/user-attachments/assets/918fc03e-15f5-4d61-9c50-77f1d7bad67a)
+
+![image](https://github.com/user-attachments/assets/a5e34b6d-1df0-4489-be85-ef7de62b3227)
+
+![image](https://github.com/user-attachments/assets/53d28c17-640c-4915-9c82-075edf626f58)
+
+Here we want to delete the values of ID field present in resign table from our actual emp database.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
