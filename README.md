@@ -259,6 +259,270 @@ The Lookup activity in ADF is a versatile tool for retrieving data and making re
 Here we want to delete the values of ID field present in resign table from our actual emp database.
 
 
+## 16) Wait
+The Wait activity in Azure Data Factory (ADF) is used to pause the execution of a pipeline for a specified amount of time. This activity is useful in scenarios where you need to introduce delays or wait for certain conditions to be met before proceeding with the next steps in your data workflow. 
+
+![image](https://github.com/user-attachments/assets/d36cc4a8-87d5-4d81-903e-280f9fd88650)
+
+## 17) Validation
+The Validation activity in Azure Data Factory (ADF) is used to check whether certain conditions or prerequisites are met before proceeding with the execution of subsequent activities in a pipeline. This activity is essential for ensuring data integrity, verifying the availability of required resources, and preventing errors during the data processing workflow.
+
+![image](https://github.com/user-attachments/assets/5776fb04-859d-41f4-9087-dd18e609193b)
+
+![image](https://github.com/user-attachments/assets/508c134f-6d67-4303-b131-8463711cd61f)
+
+![image](https://github.com/user-attachments/assets/6a72c0e4-ab15-4b1d-afd7-388a1f7366bb)
+
+![image](https://github.com/user-attachments/assets/49fc1465-cea9-437b-9e0e-480ab8c9339a)
+
+![image](https://github.com/user-attachments/assets/d2583618-7f2c-4e39-a2e5-368631ddfc2e)
+
+![image](https://github.com/user-attachments/assets/4a2611e4-09af-4d6e-bccd-6cf0ba46fb06)
+
+![image](https://github.com/user-attachments/assets/ed902ec2-d049-4c72-9a9b-e4b1a51de751)
+
+![image](https://github.com/user-attachments/assets/ababbcc5-a970-4217-b671-120293238835)
+
+![image](https://github.com/user-attachments/assets/8d682d19-25f9-4915-ab65-c82847681470)
+
+
+## 18) Filter
+In Azure Data Factory (ADF), the Filter activity is used to process and filter data based on specific conditions. This can be particularly useful for data transformations and pipeline orchestration. 
+
+![image](https://github.com/user-attachments/assets/b5538b0c-07c1-49e8-8578-2fce10a01085)
+
+![image](https://github.com/user-attachments/assets/1aec0690-e0d7-4d4d-841a-f5109e1abfaf)
+
+![image](https://github.com/user-attachments/assets/7d63d8b0-40e3-4d25-94c6-1595266fb9e7)
+
+
+## 19) Dataflow - Join and Aggregate
+
+![image](https://github.com/user-attachments/assets/5c1371fc-6361-48f5-9357-ec462740c43c)
+
+![image](https://github.com/user-attachments/assets/fea509e0-ecdd-4853-bc84-10cd78b5fe84)
+
+![image](https://github.com/user-attachments/assets/0bad7ce3-3e29-44fa-991d-b498dd269919)
+
+![image](https://github.com/user-attachments/assets/b8bd3571-e0cc-4b64-843e-30c7c2a79de8)
+
+![image](https://github.com/user-attachments/assets/2dedf216-301a-4391-bd5a-7bcfe9f2a3c8)
+
+![image](https://github.com/user-attachments/assets/6cea0506-2e7b-4ae1-8bbb-13e5574c583c)
+
+![image](https://github.com/user-attachments/assets/2defdc32-9009-45e0-be8f-975ede4f9e8b)
+
+![image](https://github.com/user-attachments/assets/281b574b-416e-4a59-a401-2fcddcc5a7a7)
+
+After creating the dataflow, we need to trigger/debug through a pipeline.
+
+![image](https://github.com/user-attachments/assets/597aeb9a-45d5-4660-8e9d-dad69718e5b6)
+
+
+## 20) Dataflow - Conditional Split
+
+![image](https://github.com/user-attachments/assets/0a0eac18-7792-47c6-92a8-a40392c2f003)
+
+![image](https://github.com/user-attachments/assets/1f2dc5d5-b061-4b3a-b5ae-b4baad9e8284)
+
+## 21) Dataflow - Exists
+
+![image](https://github.com/user-attachments/assets/c17ae6a5-7b4c-486f-b317-f55420f3829a)
+
+![image](https://github.com/user-attachments/assets/92c1d233-c0af-455d-bb3e-81ac27f84e24)
+
+## 22) Dataflow - Select
+
+![image](https://github.com/user-attachments/assets/3f15a9c6-be82-454f-aec4-20568357c4a5)
+
+![image](https://github.com/user-attachments/assets/990c672d-17e5-495b-922c-35e80decfcdc)
+
+![image](https://github.com/user-attachments/assets/ec62c28d-3192-4ff3-a3af-bff73aa81073)
+
+
+## 23) Dataflow - Filter and Sort
+
+![image](https://github.com/user-attachments/assets/99058e5f-a830-4cd0-a595-9380132c3414)
+
+![image](https://github.com/user-attachments/assets/68bb4ec4-03bb-4535-b072-90bef9ae127e)
+
+![image](https://github.com/user-attachments/assets/e0f5c84a-e02e-4cb6-9bbc-263837b8c772)
+
+## 24) Dataflow - Union and Derived Column
+
+![image](https://github.com/user-attachments/assets/dcf47df2-076d-49ac-9993-3aae48d32a19)
+
+![image](https://github.com/user-attachments/assets/56966a7f-fe63-48ea-b594-5dce1ca07bb5)
+
+![image](https://github.com/user-attachments/assets/a9c071a1-85da-4856-91b1-7a2ea0944862)
+
+![image](https://github.com/user-attachments/assets/963a60f2-1bad-4e86-9b5e-ca05f8f4ff0b)
+
+
+## 25) Dataflow - Surrogate Key
+
+![image](https://github.com/user-attachments/assets/4d1c6715-dfe8-41a1-beab-8b1fd74bd600)
+
+![image](https://github.com/user-attachments/assets/d2dba020-b0c1-406e-b66e-a94243462f36)
+
+![image](https://github.com/user-attachments/assets/d1938d5d-8a2d-4683-bd1e-513c5159662c)
+
+
+## 26) Dataflow - Pivot
+
+![image](https://github.com/user-attachments/assets/4dba2b54-565f-49a1-9f2c-2a683e1cc8b8)
+
+![image](https://github.com/user-attachments/assets/b2b84a96-16bf-4934-9d69-2bfdaf503722)
+
+![image](https://github.com/user-attachments/assets/dfa1f1d1-14c8-4194-afad-d64a07f7cdd1)
+
+![image](https://github.com/user-attachments/assets/30d7888d-90cc-4708-a140-c7987056ead9)
+
+![image](https://github.com/user-attachments/assets/9a7d90e9-211e-44ea-afa6-036b47a6a331)
+
+![image](https://github.com/user-attachments/assets/b7a1a861-33e1-499b-8e3b-33c95fe3cc82)
+
+
+## 27) Dataflow - Unpivot
+
+![image](https://github.com/user-attachments/assets/0b54f711-eded-4231-8ede-7332389a4275)
+
+![image](https://github.com/user-attachments/assets/e18c6cd5-86f2-4921-bb8d-fa59dde33eb6)
+
+![image](https://github.com/user-attachments/assets/56db0965-36d0-4a5e-903c-7dbaa5d3a7f5)
+
+![image](https://github.com/user-attachments/assets/132ad22d-1e58-43f9-9cf3-c6f9ca94b036)
+
+![image](https://github.com/user-attachments/assets/ac7bf3bf-c67e-4227-9bcc-29126fd02830)
+
+![image](https://github.com/user-attachments/assets/b7370549-065d-4522-bbac-15f33c3e0d22)
+
+
+## 28) Dataflow - Window Functions
+
+![image](https://github.com/user-attachments/assets/e755fe57-94d1-42f2-aab0-b1f4abd8eebd)
+
+![image](https://github.com/user-attachments/assets/7e17480e-e4ea-4da9-8170-d42fae4b230c)
+
+![image](https://github.com/user-attachments/assets/318ba57e-5d24-4e6c-88d8-cce9faa71137)
+
+![image](https://github.com/user-attachments/assets/e60e26ec-cd4c-4a4a-a341-b868e1279e4d)
+
+![image](https://github.com/user-attachments/assets/70312b68-0785-4a19-b2e4-39fc441a8a1b)
+
+![image](https://github.com/user-attachments/assets/a99e9959-573f-41e0-922d-93e7bfd54577)
+
+![image](https://github.com/user-attachments/assets/91b07024-8bfc-4235-8a87-7371d761bb19)
+
+
+
+## 29) Dataflow - Alter Row (Implemented SCD Type 1)
+
+![image](https://github.com/user-attachments/assets/5802ee85-b306-4ed0-915d-69ea62476ede)
+
+![image](https://github.com/user-attachments/assets/aa447c70-b72d-47c0-94d3-464999823e70)
+
+![image](https://github.com/user-attachments/assets/7f344f55-e87e-447e-94ea-40d417c2922d)
+
+![image](https://github.com/user-attachments/assets/a56bec8b-d863-41f4-8551-e365a7a6a2f5)
+
+![image](https://github.com/user-attachments/assets/cf0c0d4f-8ece-4e25-91e1-493b00badcc4)
+
+Slowly Changing Dimensions (SCD) are a common data warehousing concept used to manage and track changes in dimension data over time. The approach you take depends on how you want to handle and store historical data changes. 
+
+SCD Type 0: Retain Original
+Definition: No historical data is maintained. The dimension record is updated with new values, and previous values are lost.
+Use Case: Suitable for dimensions where changes are rare, and historical accuracy is not crucial.
+Example: A dimension with a fixed attribute that does not need historical tracking.
+
+SCD Type 1: Overwrite
+Definition: Updates the existing record with new values, overwriting the old values without keeping historical data.
+Use Case: When historical changes are not important, and only the current value is needed.
+Example: Updating a customer's address where you do not need to keep previous addresses.
+
+SCD Type 2: Add New Row
+Definition: Adds a new record for each change in the dimension attributes, maintaining historical data. Typically involves using start and end dates or version numbers to track changes.
+Use Case: When you need to track the history of changes to dimension attributes and maintain a complete history of changes.
+Example: Tracking changes in a customer’s status over time, such as a promotion or change in customer type.
+
+SCD Type 3: Add New Attribute
+Definition: Adds new columns to the existing record to store historical values, allowing the storage of current and previous values in the same record.
+Use Case: When only a limited history of changes is needed, and the focus is on tracking a specific number of previous values.
+Example: Storing a customer’s current and previous address in separate columns.
+
+SCD Type 4: Historical Table
+Definition: Maintains current dimension data in one table and historical data in another table. The current table holds the most recent version, while the historical table tracks all changes.
+Use Case: When you want to separate current and historical data, making it easier to manage and query current data while preserving historical changes.
+Example: Storing active employee records in one table and all historical employee changes in another table.
+
+SCD Type 6: Hybrid (Combination of Type 1, Type 2, and Type 3)
+Definition: Combines aspects of Types 1, 2, and 3. It retains the current value (Type 1), keeps historical records (Type 2), and may also store previous values in separate attributes (Type 3).
+Use Case: When you need to manage different aspects of historical and current data simultaneously, combining features from multiple SCD types.
+Example: Keeping current address, historical addresses, and tracking the most recent change date.
+
+
+SCD Type 7: Extension of Type 6
+Definition: Adds a layer of data versioning, often integrating Type 6 with additional mechanisms to handle changes and historical data more comprehensively.
+Use Case: For advanced scenarios where detailed version tracking and change management are required.
+Example: Combining Type 2 and Type 3 approaches with additional fields or tables for detailed historical tracking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
